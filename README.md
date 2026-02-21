@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kerellisariyu22/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kerellisariyu22/LeetCode/tree/master/0018-4sum) |
+| [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/kerellisariyu22/LeetCode/tree/master/0875-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
