@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kerellisariyu22/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kerellisariyu22/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kerellisariyu22/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kerellisariyu22/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
