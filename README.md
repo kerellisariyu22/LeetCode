@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/kerellisariyu22/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kerellisariyu22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kerellisariyu22/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kerellisariyu22/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kerellisariyu22/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Math
 |  |
 | ------- |
