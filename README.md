@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kerellisariyu22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kerellisariyu22/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kerellisariyu22/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kerellisariyu22/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kerellisariyu22/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
