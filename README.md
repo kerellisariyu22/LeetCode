@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/kerellisariyu22/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kerellisariyu22/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kerellisariyu22/LeetCode/tree/master/0860-lemonade-change) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kerellisariyu22/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
