@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kerellisariyu22/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kerellisariyu22/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kerellisariyu22/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kerellisariyu22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kerellisariyu22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kerellisariyu22/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kerellisariyu22/LeetCode/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kerellisariyu22/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kerellisariyu22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kerellisariyu22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Hash Table
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kerellisariyu22/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kerellisariyu22/LeetCode/tree/master/0860-lemonade-change) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kerellisariyu22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kerellisariyu22/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kerellisariyu22/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kerellisariyu22/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kerellisariyu22/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kerellisariyu22/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Math
 |  |
