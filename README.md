@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kerellisariyu22/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kerellisariyu22/LeetCode/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/kerellisariyu22/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/kerellisariyu22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kerellisariyu22/LeetCode/tree/master/0455-assign-cookies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kerellisariyu22/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kerellisariyu22/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 ## Greedy
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kerellisariyu22/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kerellisariyu22/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
