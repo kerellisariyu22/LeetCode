@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kerellisariyu22/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kerellisariyu22/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kerellisariyu22/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kerellisariyu22/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Matrix
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0802-find-eventual-safe-states](https://github.com/kerellisariyu22/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
