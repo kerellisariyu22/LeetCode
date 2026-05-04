@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kerellisariyu22/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/kerellisariyu22/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/kerellisariyu22/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerellisariyu22/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/kerellisariyu22/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/kerellisariyu22/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kerellisariyu22/LeetCode/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/kerellisariyu22/LeetCode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/kerellisariyu22/LeetCode/tree/master/0126-word-ladder-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kerellisariyu22/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/kerellisariyu22/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kerellisariyu22/LeetCode/tree/master/0078-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kerellisariyu22/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/kerellisariyu22/LeetCode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/kerellisariyu22/LeetCode/tree/master/1009-complement-of-base-10-integer) |
