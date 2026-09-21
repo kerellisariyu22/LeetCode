@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/kerellisariyu22/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kerellisariyu22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
