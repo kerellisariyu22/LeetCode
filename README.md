@@ -252,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/kerellisariyu22/LeetCode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/kerellisariyu22/LeetCode/tree/master/0607-sales-person) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kerellisariyu22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/kerellisariyu22/LeetCode/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
